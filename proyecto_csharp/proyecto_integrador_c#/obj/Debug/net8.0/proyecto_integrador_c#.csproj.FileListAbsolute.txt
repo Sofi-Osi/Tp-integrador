@@ -1,0 +1,14 @@
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\bin\Debug\net8.0\proyecto_integrador_c#.exe
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\bin\Debug\net8.0\proyecto_integrador_c#.deps.json
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\bin\Debug\net8.0\proyecto_integrador_c#.runtimeconfig.json
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\bin\Debug\net8.0\proyecto_integrador_c#.dll
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\bin\Debug\net8.0\proyecto_integrador_c#.pdb
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.AssemblyInfoInputs.cache
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.AssemblyInfo.cs
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.csproj.CoreCompileInputs.cache
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.dll
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\refint\proyecto_integrador_c#.dll
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.pdb
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\proyecto_integrador_c#.genruntimeconfig.cache
+C:\Users\sofir\OneDrive\Documents\Curso Framework.net\Proyecto Final\proyecto_c#\proyecto_integrador_c#\obj\Debug\net8.0\ref\proyecto_integrador_c#.dll

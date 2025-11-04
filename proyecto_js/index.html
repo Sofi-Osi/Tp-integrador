@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Workshop - Cotizador</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css">
+    <script src="variables.js"></script>
+    <script defer src="codigo.js"></script>
+</head>
+<body>
+    <h1 class="center separate">Seguros del hogar</h1>
+    <div class="div-quote">
+        <h2 class="center separate">Completa los datos solicitados</h2>
+        <label for="propiedad">Selecciona el tipo de propiedad</label>
+        <select id="propiedad"></select>
+        <label for="ubicacion">Selecciona su ubicación</label>
+        <select id="ubicacion"></select>
+        <label for="metros">Ingresa los Metros cuadrados:</label>
+        <input type="number" id="metros" value="20" min="20" max="500"/>
+        <div class="center separate">
+            <button id="btnCotizar" class="button button-outline">Cotizar</button>
+        </div>
+        <div class="center separate">
+            <p class="price">Precio estimado: U$D <span id="valorPoliza">0.00</span></p>
+        </div>
+    </div>
+</body>
+</html>
